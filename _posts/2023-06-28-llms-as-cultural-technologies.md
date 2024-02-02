@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LLMs as cultural technologies, from conveying knowledge to creating it? 
+title: LMs as cultural technologies, from conveying knowledge to creating it? 
 date: 2023-10-30
 description: Theophile Gervet
 categories: 
@@ -9,11 +9,11 @@ related_posts: false
 toc:
   sidebar: left
 ---
-### LLMs as cultural technologies
+### LMs as cultural technologies
 
-What distinguishes humans from other animals is our ability to create knowledge ([useful explanations of the world](https://theophilegervet.github.io/book_notes/the-beginning-of-infinity/)) and [pass it on culturally](https://theophilegervet.github.io/book_notes/the-secret-of-our-success/). A useful perspective on current LLMs is as powerful [cultural technologies](https://arxiv.org/abs/2305.07666), like writing, the printing press, the Internet, and language itself, that enhance cultural transmission. From this perspective, **progress on LLMs as cultural technologies is currently our best lever on the rate of human progress**.
+What distinguishes humans from other animals is our ability to create knowledge ([useful explanations of the world](https://theophilegervet.github.io/book_notes/the-beginning-of-infinity/)) and [pass it on culturally](https://theophilegervet.github.io/book_notes/the-secret-of-our-success/). A useful perspective on current LMs is as powerful [cultural technologies](https://arxiv.org/abs/2305.07666), like writing, the printing press, the Internet, and language itself, that enhance cultural transmission. From this perspective, **progress on LMs as cultural technologies is currently our best lever on the rate of human progress**.
 
-### LLMs are becoming the best way to access existing knowledge
+### LMs are becoming the best way to access existing knowledge
 
 Until 2022, the go-to way for humans to access existing knowledge was browsing the Internet through Google search (to find relevant articles, books, StackOverflow posts, etc.). **LLM-based tools like ChatGPT or Perplexity are quickly overtaking Google search. Why?**
 
@@ -27,9 +27,9 @@ Let's step through the answer to this question from the perspective of a researc
 
 The only potential downside of current LLM-based tools for accessing existing knowledge is that they can hallucinate answers. In practice, this hasn't been much of an issue in my day-to-day work with ChatGPT. Perplexity already addresses this problem by making retrieval and citations first-class citizens. But we'll need more work in this direction.
 
-### How can we make LLMs even better as gateways to existing knowledge?
+### How can we make LMs even better as gateways to existing knowledge?
 
-We should enable LLMs to
+We should enable LMs to
 - **Directly integrate with daily tools** to understand user context better - read the code repository for my project on GitHub, the draft of the paper I'm writing in Overleaf, the conversations with my collaborators on Slack, the learning curves for my training runs in WandB, etc.
 - **Understand other modalities** (images, videos, audio) as well as language - ChatGPT is already setting a high bar for images and audio, although it's not nearly as good at image understanding as it is at text understanding yet
 - **Synthesize** large amounts of information 
@@ -42,14 +42,14 @@ We should enable LLMs to
     - **Process (much) longer input context windows** to be able to ingest all this information - we should be able to take as input an entire book (100K+ words), an entire GitHub repository (1M+ tokens), all papers at a conference (40M+ tokens)
 - **Teach rather than answer** - act like a personal teacher who adapts explanations to my current level of understanding, propose exercises to better master a topic
 - **Search proactively** for relevant information - proactively recommend what papers and books to read given my interests and current projects
-- **Eliminate hallucinations** - we should be able to trust the answers we get from LLMs at least as much as we trust answers from credible sources via Google Search
+- **Eliminate hallucinations** - we should be able to trust the answers we get from LMs at least as much as we trust answers from credible sources via Google Search
     - We're pretty close for simple queries that Google Search could answer, but this will become much more challenging as we move to complex synthesis of large amounts of information
 
 The improvements above fall into two buckets:
 - What can likely be done with more scale and more engineering: integrate with daily tools, understand images and videos as well as text, search proactively for relevant information
 - What is likely to require new ideas: teach rather than answer, synthesize large amounts of information, eliminate hallucinations in this context
 
-### How can LLMs create new knowledge?
+### How can LMs create new knowledge?
 
 To answer this question, it's helpful to think through how humans create knowledge. 
 
@@ -68,7 +68,7 @@ But concretely, what does a researcher do day-to-day? A researcher splits time b
 
 Problem-finding is often the most challenging skill to learn. Experienced researchers excel at this outer loop, while they might get rusty at the inner loop as they progress in their careers and delegate more of it to students and collaborators. 
 
-This outer loop is primarily about accurately synthesizing the state of existing knowledge. This should make it evident that **being excellent as a gateway to existing knowledge is already flirting with creating new knowledge**. This should give you pause if you dismissed LLMs as imitation machines that are fundamentally unable to create new knowledge. Isn't making it 100x easier for humans to create new knowledge already a form of creating new knowledge?
+This outer loop is primarily about accurately synthesizing the state of existing knowledge. This should make it evident that **being excellent as a gateway to existing knowledge is already flirting with creating new knowledge**. This should give you pause if you dismissed LMs as imitation machines that are fundamentally unable to create new knowledge. Isn't making it 100x easier for humans to create new knowledge already a form of creating new knowledge?
 
 Of course, beyond the synthesis of the state of existing knowledge, other abilities would be very handy to assist researchers in their other daily tasks:
 - **Criticize:** poke holes in an argument, offer a counter-argument, identify flaws in a proof, missing experimental data to support a claim, etc. - act like a good reviewer

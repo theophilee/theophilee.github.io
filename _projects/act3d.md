@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Act3D, 3D Feature Field Transformers
+title: Manipulation with 3D Field Transformers
 description: CoRL 2023
-img: assets/act3d/act3d.png
+img: assets/act3d/tasks.png
 redirect: https://act3d.github.io
-importance: 2
+importance: 3
 category: research
 ---

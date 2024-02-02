@@ -13,12 +13,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a PhD student at the Machine Learning Department at Carnegie Mellon University. 
-I work on computer vision and robotics to build useful robots in messy human environments (homes, hospitals) with [Prof. Katerina Fragkiadaki](https://www.cs.cmu.edu/~katef). 
+I'm a research scientist at [Mistral AI](https://mistral.ai/), working on accelerating AI open-source. I believe progress on language models as cultural technologies is currently our best lever on the rate of human progress. [Accelerate with us!](http://jobs.lever.co/mistral)
 
-Prior to joining CMU, I graduated from McGill University, Canada, with a B.Sc. in Computer Science & Mathematics, where I worked on reinforcement learning with Profs. [Doina Precup](https://www.cs.mcgill.ca/~dprecup/index.html) and [Joelle Pineau](https://www.cs.mcgill.ca/~jpineau). 
-During the first two years of my PhD, I worked on ML applications for education with Prof. [Tom Mitchell](http://www.cs.cmu.edu/~tom/). 
-In 2020-2022, I took a leave from the PhD to build the ML/NLP product/team of an [early-stage data privacy startup](https://www.relyance.ai/).
+Before that, I was doing an ML PhD at Carnegie Mellon University, working on computer vision and robotics with [Katerina Fragkiadaki](https://www.cs.cmu.edu/~katef). 
 
-In my spare time, I enjoy food and wine, traveling and nature, and lifting weights while listening to audio books. 
-I grew up in Paris and my English accent has long been stuck at a local optimum.
+Even before that, I was working on reinforcement learning (RL) with [Doina Precup](https://www.cs.mcgill.ca/~dprecup/index.html) and [Joelle Pineau](https://www.cs.mcgill.ca/~jpineau) at McGill in Montreal. 
+Early in my PhD, I worked on offline RL for education with [Tom Mitchell](http://www.cs.cmu.edu/~tom/). 
+I took a couple of years of leave to build the ML product & team of [Relyance AI](https://www.relyance.ai/).
+
+I grew up in Paris, and my English accent has long been stuck at a local optimum.
+I like good food and wine, traveling, nature, and lifting weights while listening to cool science or philosophy.
