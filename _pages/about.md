@@ -13,7 +13,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a research scientist at [Mistral AI](https://mistral.ai/), working on accelerating AI open-source. I believe progress on language models as cultural technologies is currently our best lever on the rate of human progress. [Accelerate with us!](http://jobs.lever.co/mistral)
+I'm a research scientist at [Mistral AI](https://mistral.ai/), working on accelerating AI open-source. I believe progress on language models as cultural technologies is currently our best lever on the rate of human progress. [Come build with us!](http://jobs.lever.co/mistral)
 
 Before that, I was doing an ML PhD at Carnegie Mellon University, working on computer vision and robotics with [Katerina Fragkiadaki](https://www.cs.cmu.edu/~katef). 
 
