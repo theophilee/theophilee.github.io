@@ -33,8 +33,11 @@ How are the theories interdependent? The central narrative is that **our physica
 - Note that for this to happen, the fabric of reality should be and is layered for easy self-access: life and thought evolution processes must be efficient, they cannot require too much time or other resources
 
 In other words, **human reach is the same as the reach of explanatory knowledge and is thus bounded only by the laws of nature** 
-- If there were something that couldn’t be explained, this would have an explanation (be a law of nature or a consequence of one)
+- If there were something that couldn't be explained, this would have an explanation (be a law of nature or a consequence of one)
 - Saying otherwise is saying that the world is inexplicable - we might as well invoke the Gods of ancient myths
+- There are two claims
+  - Hardware: "human brains are universal" - Turing principle, fairly non-controversial, albeit not widely internalized
+  - Software: "human explanations are universal" - Deutsch makes a strong case for this
 
 This worldview is **fundamentally optimistic - it places human minds at the center of the physical universe, and explanation and understanding at the center of human purpose**
 
