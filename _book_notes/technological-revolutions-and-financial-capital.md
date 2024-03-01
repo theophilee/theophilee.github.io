@@ -78,6 +78,7 @@ Why are we in the maturity phase?
 AI is the foundation of the current paradigm
 - it irrupted with deep learning in 2012 enabled by the previous paradigm: Internet data + cloud computing
 - it has the potential to automate the very foundation of what gives humanity its power over the physical world: our intelligence and ability to create knowledge - this is more powerful of an enabler than any of the technologies driving previous paradigms
+- we might be entering the frenzy with the amount of VC money being poured into LLMs
 
 If we handle it well, it will make humanity a lot more ambitious in all its endeavors in the synergy phase of the wave
 - AI-driven personal computing: personal AI life copilot, coach, co-creator, teacher, friend, therapist
