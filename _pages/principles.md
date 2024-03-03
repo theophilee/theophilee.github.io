@@ -84,3 +84,9 @@ A collection of principles that resonate with me, in case you find it useful.
 - **Make yourself accountable to the highest standards.**
     - Don’t settle for anything less than amazing work for yourself and for others.
     - Steve Jobs: "Be a yardstick of quality. Some people aren’t used to an environment where excellence is expected."
+
+## How to think about startups
+
+- **Creating a startup is like creating a movie.**
+    - Keith Rabois: "I don't believe in finding product market fit, I believe in forging it like creating a movie. You start with a vision of a better future you want to accomplish, you cast the team, you produce it, you market it, and you sell tickets. There's no pre-existing movie that people are waiting for, and you're not unlocking it. Nobody who produces a movie goes and interviews 10 people on the street and says, 'What movie do you want to see this weekend?'"
+    - What kind of movie do you want to create? 
