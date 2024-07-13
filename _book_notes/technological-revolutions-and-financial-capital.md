@@ -4,8 +4,8 @@ title: Technological Revolutions and Financial Capital
 date: 2024-03-01
 description: Carlota Perez
 img: assets/books/technological-revolutions.png
-importance: 3
-category: progress & technology
+importance: 1
+category: nature of progress & technology
 giscus_comments: false
 related_posts: false
 toc:

@@ -5,7 +5,7 @@ date: 2023-08-09
 description: Sebastian Mallaby
 img: assets/books/the-power-law.jpg
 importance: 3
-category: progress & technology
+category: technology history
 giscus_comments: false
 related_posts: false
 toc:

@@ -4,8 +4,8 @@ title: Grand Transitions
 date: 2023-08-12
 description: Vaclav Smil
 img: assets/books/grand-transitions.png
-importance: 2
-category: progress & technology
+importance: 1
+category: technology history
 giscus_comments: false
 related_posts: false
 toc:

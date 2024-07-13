@@ -4,7 +4,7 @@ title: The Art of Doing Science and Engineering
 date: 2023-08-09
 description: Richard Hamming
 img: assets/books/the-art-of-doing-science-and-engineering.jpg
-importance: 5
+importance: 3
 category: personal philosophy
 giscus_comments: false
 related_posts: false

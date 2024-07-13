@@ -4,8 +4,8 @@ title: Beyond Good and Evil and The Genealogy of Morals
 date: 2023-08-09
 description: Friedrich Nietzsche
 img: assets/books/beyond-good-and-evil.jpg
-importance: 3
-category: personal philosophy
+importance: 1
+category: philosophy
 giscus_comments: false
 related_posts: false
 toc:

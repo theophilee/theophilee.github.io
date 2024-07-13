@@ -4,8 +4,8 @@ title: The Coming Wave
 date: 2023-07-10
 description: Mustafa Suleyman
 img: assets/books/the-coming-wave.jpg
-importance: 1
-category: progress & technology
+importance: 10
+category: technology opinion
 giscus_comments: false
 related_posts: false
 toc:
