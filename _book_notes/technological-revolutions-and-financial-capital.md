@@ -17,7 +17,7 @@ toc:
 The main claim is that **technology has progressed in succeeding and distinct waves/paradigms** since the Industrial Revolution and has done so **for financial and social reasons** rather than technological ones.
 
 Paradigms progress in phases:
-1. **Irruption**: A technological revolution - technology with the means to modernize all existing industries and activities - irrupts into the scene. Production capital (entrepreneurs, operators) realizes the opportunity and starts building to make it increasingly clear to the rest of the world.
+1. **Irruption**: A technological revolution - technology with the means to modernize all existing industries and activities - irrupts into the scene. Production capital (entrepreneurs, operators) realizes the opportunity - often after a highly visible attractor event (e.g., ChatGPT) - and starts building to make it increasingly clear to the rest of the world.
 2. **Frenzy**: Financial capital (venture capital and the rest of finance) aggressively pursues this technology, enabling production capital. A financial bubble forms because financial expectations grow faster than real deployment, partly because of societal inertia slowing adoption and partly because of financiers' unrealistic expectations and speculation. Social/political tension builds up because of growing inequalities between leaders of the revolution and everyone else.
 3. **Bubble/crash/turning point**: The financial bubble and political tension lead to a crash. New institutions and regulations are introduced to address tensions.
 4. **Synergy / golden age**: Production and financial capital converge - with production capital as the leader and financial capital as the enabler - to fully exploit the wave's potential across all industries and activities, raising everyone's productivity and life standards.
@@ -42,25 +42,26 @@ Why are there crashes mid-paradigm?
 
 From the perspective of 2002, when the book was written:
 
-| Paradigm                                   | Date        | Leaders                                 | Crash                 |
-| ------------------------------------------ | ----------- | --------------------------------------- | --------------------- |
-| Industrial revolution                      | 1770s-1820s | Britain                                 | 1790s canal mania     |
-| Steam & railways                           | 1830s-1870s | Britain, spreading to continent and USA | 1840s railway mania   |     
-| Electricity, steel & heavy engineering     | 1870s-1910s | USA/Germany overtake Britain            | 1893 panic            |
-| Oil, automobile, mass production           | 1910s-1970s | USA, spreading to Europe, Japan         | 1929 great depression |
-| Information, computing, software           | 1970s-??    | USA, spreading to Asia, Europe          | 2000 dotcom bubble    |
-
+| Paradigm                                   | Date        | Leaders                                 | Cheap input    | Crash                 |
+| ------------------------------------------ | ----------- | --------------------------------------- |----------------| --------------------- |
+| Industrial revolution                      | 1770s-1820s | Britain                                 | Cotton?        | 1790s canal mania     |
+| Steam & railways                           | 1830s-1870s | Britain, spreading to continent and USA | Coal           | 1840s railway mania   |     
+| Electricity, steel & heavy engineering     | 1870s-1910s | USA/Germany overtake Britain            | Steel          | 1893 panic            |
+| Oil, automobile, mass production           | 1910s-1970s | USA, spreading to Europe, Japan         | Oil            | 1929 great depression |
+| Information, computing, software           | 1970s-??    | USA, spreading to Asia, Europe          | Microprocessor | 2000 dotcom bubble    |
 <br>
+
 ## Where are we today?
 
 My take is that we can complete the table as follows:
 
-| Paradigm                                  | Date        | Leaders                                 | Crash              |
-| ----------------------------------------- | ----------- | --------------------------------------- | ------------------ |
-| Information, computing, software          | 1970s-2020s | USA, spreading to Asia, Europe          | 2000 dotcom bubble, [2008 financial crisis](https://www.theguardian.com/technology/2008/oct/16/computing-software-financial-crisis) |
-| AI, deep tech                             | 2010s-??    | USA & Asia, spreading to Europe, Africa | ??                 |
+| Paradigm                                  | Date        | Leaders                                 | Cheap input        | Crash             |
+| ----------------------------------------- | ----------- | --------------------------------------- | ------------------ |------------------ |
+| Information, computing, software          | 1970s-2020s | USA, spreading to Asia, Europe          | Microprocessor     | 2000 dotcom bubble, [2008 financial crisis](https://www.theguardian.com/technology/2008/oct/16/computing-software-financial-crisis) |
+| AI, deep tech                             | 2010s-??    | USA & Asia, spreading to Europe, Africa | Digital data       | ??                |
 
 <br>
+
 ### Maturity of the age of information, computing, and software
 
 What were its main features?
